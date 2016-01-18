@@ -1,4 +1,11 @@
 
 body {
-	background-color: aqua;
+	background-color: #f0f0f0;
+}
+
+.test {
+	background-color: #e6b1f0;
+	font-size: 210px;
+	text-align: center;
+
 }
