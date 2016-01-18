@@ -1,2 +1,4 @@
 # learn-css
-Learning css project
+Learning css project.
+
+# TODO
