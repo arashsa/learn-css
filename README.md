@@ -1,12 +1,12 @@
 # Learn-css
 Learning css project
 
-# Bower
+## Bower
 Package manager for the front-end
 
-# Sass
+## Sass
 Faster, simpler, more modular approach to CSS
 
-# Jade
+## Jade
 Simpler approach to HTML
 
